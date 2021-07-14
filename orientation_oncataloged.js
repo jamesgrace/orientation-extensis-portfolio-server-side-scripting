@@ -1,8 +1,17 @@
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+//
+//	Copyright (c) 2021, James Grace
+//	All rights reserved.
+//
+//	This source code is licensed under the BSD-style license found in the
+//	LICENSE file in the root directory of this source tree.
+//
+// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 
-var VERSION = "9march2020";
+var VERSION = "14july2021";
 
 var DISPLAY_NAME = "Orientation";
 
