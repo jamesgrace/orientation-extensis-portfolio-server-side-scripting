@@ -5,7 +5,7 @@ Separate user initiated ( _On Job_ ) as well as automatic ( _On Cataloged_ ) Ser
 
 #### 1. PORTFOLIO SERVER VERSION
 * Via the Portfolio Administration ( _:8091_ ) Web interface , verify the current version of your Portfolio instance.
-Although the provided Server Side Script may work on earlier Portfolio versions , Portfolio version 3.6.3 ( _or greater_ ) is recommended.
+Although the provided Server Side Scripts may work on earlier Portfolio versions , Portfolio version 3.6.3 ( _or greater_ ) is recommended.
 
 #### 2. SCRIPTS SUB-FOLDER
 * Windows Server : Via the Windows File Explorer , navigate to the **`C:\Program Files(x86)\Extensis\Portfolio Server\data`** folder and create the **`custom-scripts`** sub-folder ( _if not already present_ ).
