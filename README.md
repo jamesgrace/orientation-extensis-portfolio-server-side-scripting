@@ -1,5 +1,5 @@
 # orientation-extensis-portfolio-server-side-scripting
-Separate user initiated ( _On Job_ ) as well as automatic ( _On Cataloged_ ) Extensis Portfolio Server Side Scripts that apply an item's orientation value ( _e.g. Landscape , Portrait , or Square_ ) to a desired custom field.
+Separate user initiated ( _On Job_ ) as well as automatic ( _On Cataloged_ ) Extensis Portfolio Server Side Scripts that apply an item's orientation value ( _e.g. Landscape , Portrait , or Square_ ) to a desired Custom Field.
 
 ## Script Installation Procedure :
 
